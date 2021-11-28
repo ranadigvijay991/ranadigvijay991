@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 >Here are my GitHub stats:
 >
->![Digvijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranadigvijay991&theme=midnight-purple&show_icons=true) ​
+>![Digvijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranadigvijay991&theme=midnight-purple&show_icons=true) 
 
 
 >Here are some of the programming languages that I use:
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 >Streaks, here we go, 
 >
-><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranadigvijay991&theme=midnight-purple" /></p>​
+><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranadigvijay991&theme=midnight-purple" /></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
