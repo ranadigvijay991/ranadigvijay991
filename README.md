@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Deep Learning
 - 👯 I’m looking to collaborate on open source projects.
 - 🤔 I’m looking for help with Data Structures and Algorithms.
-- 💬 Ask me about DevOps and Open Source Community
+- 💬 Ask me about AI and ML 
 - 📫 How to reach me: https://ranadigvijay991.github.io/basic-html-css/
 
 >Here are my GitHub stats:
