@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+  
 - 🔭 I’m currently working on Machine Learning
 - 🌱 I’m currently learning Deep Learning
 - 👯 I’m looking to collaborate on open source projects.
@@ -7,7 +7,7 @@
 - 💬 Ask me about AI and ML 
 - 📫 How to reach me: https://ranadigvijay991.github.io/basic-html-css/
 
->Here are my GitHub stats:
+>Here are my GitHub  stats:
 >
 >![Digvijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranadigvijay991&theme=midnight-purple&show_icons=true)
 
