@@ -17,7 +17,7 @@
 >>
 >[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranadigvijay991&theme=midnight-purple&layout=compact)](https://github.com/ranadigvijay991/github-readme-stats)
 
->Streaks, here we go,
+>Streaks
 >
 ><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranadigvijay991&theme=midnight-purple" /></p>
 
