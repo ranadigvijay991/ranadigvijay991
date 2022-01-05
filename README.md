@@ -1,4 +1,4 @@
-### Fascinated by the limitless applications of ML and AI; eager to learn and discover the depths of data science.
+### Fascinated by the limitless applications of ML and AI ; eager to learn and discover the depths of data science.
   
 - 🔭 I’m  currently working on Machine Learning
 - 🌱 I’m currently learning Deep Learning
