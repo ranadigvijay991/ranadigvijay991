@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on open source projects.
 - 🤔 I’m looking for help with Data Structures and Algorithms.
 - 💬 Ask me about AI and ML 
-- 📫 How to reach me: ranadigvijay991@gmail.com
+- 📫 How to reach me: ranadigvijay991@gmail
 
 >Here are my GitHub  stats:
 >
