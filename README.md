@@ -11,7 +11,6 @@
 >
 >![Digvijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranadigvijay991&theme=midnight-purple&show_icons=true)
 
-
 >Here are some of the programming languages that I use:
 >
 >>
