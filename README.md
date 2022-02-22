@@ -5,7 +5,6 @@ Fascinated by the limitless applications of ML and AI ; eager to learn and disco
 - 👯 I’m looking to collaborate on open source projects.
 - 🤔 I’m looking for help with Data Structures and Algorithms.
 - 💬 Ask me about AI and ML 
-- 📫 How to reach me: ranadigvijay991@gmail.com
 
 >Here are my GitHub  stats:
 >
