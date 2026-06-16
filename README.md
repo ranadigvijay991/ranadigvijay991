@@ -19,6 +19,7 @@ in AI, Cloud, and distributed systems.
 - 🤝 Looking to collaborate on **Open Source, Backend, Cloud, and AI projects**
 - 💬 Ask me about **Python, FastAPI, DevOps, CI/CD, Kubernetes, and AI Automation**
 - 📫 Reach me at **ranadigvijay991@gmail.com**
+- 🌐 Check out my portfolio: **https://digvijayrana.com** where I showcase my ReactJS projects, frontend skills, and journey as a developer
 
 ---
 
